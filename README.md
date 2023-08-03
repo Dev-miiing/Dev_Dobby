@@ -39,7 +39,7 @@ Therefore, we have strived to contribute to promoting K-beauty to the World by c
   <img src="https://github.com/minseo4485/dobby/assets/111673838/02c88340-e482-4ad0-834e-61f0bb2167dc.png" width="100%"/>
 </div>
 
-이 프로젝트의 47개의 테이블과 6개의 모듈로 이루어져 있습니다.
+이 프로젝트의 47개의 테이블과 6개의 모듈로 이루어져 있습니다.<br>
 This project contains 47 tables and 6 modules.
 ### **특징적 기술 Key Features**
 * [Kakao OAuth](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaologin) - 카카오 소셜 로그인 / Kakao social login
@@ -53,8 +53,8 @@ This project contains 47 tables and 6 modules.
 
 developers.kakao.comdevelopers.kakao.com
 Kakao Developers
-카카오 API를 활용하여 다양한 어플리케이션을 개발해보세요. 카카오 로그인, 메시지 보내기, 친구 API, 인공지능 API 등을 제공합니다. (18kB)
+카카오 API를 활용하여 다양한 어플리케이션을 개발해보세요. 카카오 로그인, 메시지 보내기, 친구 API, 인공지능 API 등을 제공합니다. 
 https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaologin
 postcode.map.daum.netpostcode.map.daum.net
 Daum 우편번호 서비스
-우편번호 검색과 도로명 주소 입력 기능을 너무 간단하게 적용할 수 있는 방법. Daum 우편번호 서비스를 이용해보세요. 어느 사이트에서나 무료로 제약없이 사용 가능하답니다. (26kB)
+우편번호 검색과 도로명 주소 입력 기능을 너무 간단하게 적용할 수 있는 방법. Daum 우편번호 서비스를 이용해보세요. 어느 사이트에서나 무료로 제약없이 사용 가능하답니다.
