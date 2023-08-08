@@ -1,6 +1,7 @@
 <br>
 <div align="center">
-  <img src="https://github.com/minseo4485/dobby/assets/111673838/ca3438c4-a6c6-4652-8329-fd8ed1f0374e.png" width="600"/>
+  
+  ![로고](https://github.com/Dev-miiing/Project_Dobby/assets/139543251/222d6d28-211e-4b7f-b14a-52bf4100516b)
 </div>
 <br>
 
