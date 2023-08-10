@@ -38,7 +38,9 @@ Therefore, we have strived to contribute to promoting K-beauty to the World by c
 * CSS3<br>
 ### **ERD**
 <div align="center">
-  <img src="https://github.com/minseo4485/dobby/assets/111673838/02c88340-e482-4ad0-834e-61f0bb2167dc.png" width="100%"/>
+  
+  ![됐나욧 ERD](https://github.com/Dev-miiing/Project_Dobby/assets/139543251/5f01ff07-64da-480d-a822-2cf6481f1d37)
+
 </div>
 
 이 프로젝트의 47개의 테이블과 6개의 모듈로 이루어져 있습니다.<br>
