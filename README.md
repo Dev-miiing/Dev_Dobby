@@ -71,12 +71,13 @@ Daum 우편번호 서비스
 <br>
 <br>
 <div>
-  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/34920958-c06e-47b2-8336-46ab53c914e6" alt="20230813_012017" width="480" />
-  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/3e9c36fc-f2cb-41dc-891e-5dc0081fe00a" alt="20230813_012036" width="480" />
+  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/34920958-c06e-47b2-8336-46ab53c914e6" alt="20230813_012017" width="400" />
+  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/3e9c36fc-f2cb-41dc-891e-5dc0081fe00a" alt="20230813_012036" width="400" />
 </div>
 
 <br>
-<img width="1200" alt="20230813_012125" src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/026d28f7-2c72-4bcf-9c81-116220c06fee">
+<img width="994" alt="20230813_012125" src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/03feaed3-800e-4430-99bf-8f30e8de65c9">
+
 
 
 
