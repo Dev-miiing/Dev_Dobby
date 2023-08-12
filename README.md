@@ -44,11 +44,11 @@ Therefore, we have strived to contribute to promoting K-beauty to the World by c
 </div>
 
 이 프로젝트의 47개의 테이블과 6개의 모듈로 이루어져 있습니다.<br>
-This project contains 47 tables and 6 modules.
+This project contains 47 tables and 6 modules.<br>
 ### **특징적 기술 Key Features**
 * [Kakao OAuth](https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaologin) - 카카오 소셜 로그인 / Kakao social login
 * [Kakao Map API](https://postcode.map.daum.net/guide) – 상품을 받을 주소지를 찾는 API / used to find adress for delivery APIs
-* [iamport.payment API](https://api.iamport.kr/) – 결제 및 본인인증을 테스트할 수 있는 API / used to test payment and identity verification APIs
+* [iamport.payment API](https://api.iamport.kr/) – 결제 및 본인인증을 테스트할 수 있는 API / used to test payment and identity verification APIs<br>
 ### **개발환경 Development Environment**
 * IntelliJ IDEA/ Spring Tool Suite 4
 * Apache Tomcat 9
@@ -61,4 +61,23 @@ Kakao Developers
 https://developers.kakao.com/docs/latest/ko/kakaologin/rest-api#kakaologin
 postcode.map.daum.netpostcode.map.daum.net
 Daum 우편번호 서비스
-우편번호 검색과 도로명 주소 입력 기능을 너무 간단하게 적용할 수 있는 방법. Daum 우편번호 서비스를 이용해보세요. 어느 사이트에서나 무료로 제약없이 사용 가능하답니다.
+우편번호 검색과 도로명 주소 입력 기능을 너무 간단하게 적용할 수 있는 방법. Daum 우편번호 서비스를 이용해보세요. 어느 사이트에서나 무료로 제약없이 사용 가능합니다.<br>
+
+
+
+## 내 파트 화면 구현 이미지
+
+
+<br>
+<br>
+<div>
+  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/34920958-c06e-47b2-8336-46ab53c914e6" alt="20230813_012017" width="480" />
+  <img src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/3e9c36fc-f2cb-41dc-891e-5dc0081fe00a" alt="20230813_012036" width="480" />
+</div>
+
+<br>
+<img width="1200" alt="20230813_012125" src="https://github.com/Dev-miiing/Project_Dobby/assets/139543251/026d28f7-2c72-4bcf-9c81-116220c06fee">
+
+
+
+
